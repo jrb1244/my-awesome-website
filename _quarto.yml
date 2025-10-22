@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: Superhero
+    theme: Minty
     toc: true
 
 editor: source
