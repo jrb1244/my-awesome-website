@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I really want to work in research. I am interested in a lot of different fields, particularly the marine field. As I have been getting more involved in limnological studies, I have been finding myself getting drawn to limnology. I know I eventually want to get at least my masters, if not my PhD (we shall see).\n\n\n\nI am a senior zoology student at the University of New Hampshire, working towards my B.S.\n\n\n\nI have worked in a few labs while being here. I have worked in the Ecological Acoustics Lab with Dr. Kleopper my freshman year. I worked on research looking at giraffe gate banging and then moose vocalizations (which we actually published!). Then, sophomore year, I worked in the Quantitative Marine Ecology Lab with Dr. White. Junior year I went to New Zealand for a study abroad semester and did a lot of immersive research. Now I am working in the Lakes Lays Monitoring Porgram Lab under Amanda McQuaid. I am doing an independent study on toxicology, looking at cyanbacteria blooms in Wolfboro on Lake Winnipesaukee (it is really interesting!).\nThanks for checking out my web site!"
-  },
-  {
-    "objectID": "index.html#goals",
-    "href": "index.html#goals",
-    "title": "About Me",
-    "section": "",
-    "text": "I really want to work in research. I am interested in a lot of different fields, particularly the marine field. As I have been getting more involved in limnological studies, I have been finding myself getting drawn to limnology. I know I eventually want to get at least my masters, if not my PhD (we shall see)."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a senior zoology student at the University of New Hampshire, working towards my B.S."
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "About Me",
-    "section": "",
-    "text": "I have worked in a few labs while being here. I have worked in the Ecological Acoustics Lab with Dr. Kleopper my freshman year. I worked on research looking at giraffe gate banging and then moose vocalizations (which we actually published!). Then, sophomore year, I worked in the Quantitative Marine Ecology Lab with Dr. White. Junior year I went to New Zealand for a study abroad semester and did a lot of immersive research. Now I am working in the Lakes Lays Monitoring Porgram Lab under Amanda McQuaid. I am doing an independent study on toxicology, looking at cyanbacteria blooms in Wolfboro on Lake Winnipesaukee (it is really interesting!)."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Experience",
@@ -75,5 +47,40 @@
     "title": "Experience",
     "section": "Ecological and Acoustics Behavior Lab",
     "text": "Ecological and Acoustics Behavior Lab\nWhile working in this research lab, I, along with two of my peers, studied how the frequency of gate bangs from the giraffes correlated with the passing of a nearby train. We looked at how giraffes gate bangs represented their stress and prepared a summary paper to give to their team. In the spring, I researched and evaluated the frequencies of calls that cows, bulls, and calves made and what those calls could tell us about their behavior (were they rutting, communicating, warning calls, etc.). Myself along with two peers presented at Northeast Regional Environmental Acoustics Symposium as well as the URC at UNH in April 2023.\nDOI for paper: 10.1121/10.0025465"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I really want to work in research. I am interested in a lot of different fields, particularly the marine field. As I have been getting more involved in limnological studies, I have been finding myself getting drawn to limnology. I know I eventually want to get at least my masters, if not my PhD (we shall see).\n\n\n\nI am a senior zoology student at the University of New Hampshire, working towards my B.S.\n\n\n\nI have worked in a few labs while being here. I have worked in the Ecological Acoustics Lab with Dr. Kleopper my freshman year. I worked on research looking at giraffe gate banging and then moose vocalizations (which we actually published!). Then, sophomore year, I worked in the Quantitative Marine Ecology Lab with Dr. White. Junior year I went to New Zealand for a study abroad semester and did a lot of immersive research. Now I am working in the Lakes Lays Monitoring Porgram Lab under Amanda McQuaid. I am doing an independent study on toxicology, looking at cyanbacteria blooms in Wolfboro on Lake Winnipesaukee (it is really interesting!).\n\n\n\nEmail: jocelyn.brierley@unh.edu\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I really want to work in research. I am interested in a lot of different fields, particularly the marine field. As I have been getting more involved in limnological studies, I have been finding myself getting drawn to limnology. I know I eventually want to get at least my masters, if not my PhD (we shall see)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a senior zoology student at the University of New Hampshire, working towards my B.S."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I have worked in a few labs while being here. I have worked in the Ecological Acoustics Lab with Dr. Kleopper my freshman year. I worked on research looking at giraffe gate banging and then moose vocalizations (which we actually published!). Then, sophomore year, I worked in the Quantitative Marine Ecology Lab with Dr. White. Junior year I went to New Zealand for a study abroad semester and did a lot of immersive research. Now I am working in the Lakes Lays Monitoring Porgram Lab under Amanda McQuaid. I am doing an independent study on toxicology, looking at cyanbacteria blooms in Wolfboro on Lake Winnipesaukee (it is really interesting!)."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "About Me",
+    "section": "",
+    "text": "Email: jocelyn.brierley@unh.edu"
   }
 ]
